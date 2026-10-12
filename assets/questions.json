@@ -1,0 +1,2202 @@
+[
+  {
+    "id": 1,
+    "question": "What is the capital of France?",
+    "options": [
+      {
+        "label": "Berlin",
+        "isCorrect": false
+      },
+      {
+        "label": "Madrid",
+        "isCorrect": false
+      },
+      {
+        "label": "Paris",
+        "isCorrect": true
+      },
+      {
+        "label": "Rome",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      {
+        "label": "Earth",
+        "isCorrect": false
+      },
+      {
+        "label": "Mars",
+        "isCorrect": true
+      },
+      {
+        "label": "Jupiter",
+        "isCorrect": false
+      },
+      {
+        "label": "Venus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "What is 12 × 8?",
+    "options": [
+      {
+        "label": "86",
+        "isCorrect": false
+      },
+      {
+        "label": "96",
+        "isCorrect": true
+      },
+      {
+        "label": "108",
+        "isCorrect": false
+      },
+      {
+        "label": "112",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Which is the largest ocean on Earth?",
+    "options": [
+      {
+        "label": "Atlantic Ocean",
+        "isCorrect": false
+      },
+      {
+        "label": "Indian Ocean",
+        "isCorrect": false
+      },
+      {
+        "label": "Pacific Ocean",
+        "isCorrect": true
+      },
+      {
+        "label": "Arctic Ocean",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Who wrote Romeo and Juliet?",
+    "options": [
+      {
+        "label": "Charles Dickens",
+        "isCorrect": false
+      },
+      {
+        "label": "William Shakespeare",
+        "isCorrect": true
+      },
+      {
+        "label": "Mark Twain",
+        "isCorrect": false
+      },
+      {
+        "label": "Jane Austen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is the chemical symbol for gold?",
+    "options": [
+      {
+        "label": "Ag",
+        "isCorrect": false
+      },
+      {
+        "label": "Au",
+        "isCorrect": true
+      },
+      {
+        "label": "Fe",
+        "isCorrect": false
+      },
+      {
+        "label": "Gd",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which gas do plants primarily absorb for photosynthesis?",
+    "options": [
+      {
+        "label": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "label": "Nitrogen",
+        "isCorrect": false
+      },
+      {
+        "label": "Carbon dioxide",
+        "isCorrect": true
+      },
+      {
+        "label": "Hydrogen",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "How many continents are there?",
+    "options": [
+      {
+        "label": "5",
+        "isCorrect": false
+      },
+      {
+        "label": "6",
+        "isCorrect": false
+      },
+      {
+        "label": "7",
+        "isCorrect": true
+      },
+      {
+        "label": "8",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What is the square root of 144?",
+    "options": [
+      {
+        "label": "10",
+        "isCorrect": false
+      },
+      {
+        "label": "11",
+        "isCorrect": false
+      },
+      {
+        "label": "12",
+        "isCorrect": true
+      },
+      {
+        "label": "14",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Which is the longest river in India?",
+    "options": [
+      {
+        "label": "Yamuna",
+        "isCorrect": false
+      },
+      {
+        "label": "Ganga",
+        "isCorrect": true
+      },
+      {
+        "label": "Godavari",
+        "isCorrect": false
+      },
+      {
+        "label": "Narmada",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "question": "Who was the first person to walk on the Moon?",
+    "options": [
+      {
+        "label": "Yuri Gagarin",
+        "isCorrect": false
+      },
+      {
+        "label": "Neil Armstrong",
+        "isCorrect": true
+      },
+      {
+        "label": "Buzz Aldrin",
+        "isCorrect": false
+      },
+      {
+        "label": "Michael Collins",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "question": "Which programming language is used by Flutter?",
+    "options": [
+      {
+        "label": "Java",
+        "isCorrect": false
+      },
+      {
+        "label": "Dart",
+        "isCorrect": true
+      },
+      {
+        "label": "Python",
+        "isCorrect": false
+      },
+      {
+        "label": "C#",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "question": "What does CPU stand for?",
+    "options": [
+      {
+        "label": "Central Processing Unit",
+        "isCorrect": true
+      },
+      {
+        "label": "Computer Personal Unit",
+        "isCorrect": false
+      },
+      {
+        "label": "Central Program Utility",
+        "isCorrect": false
+      },
+      {
+        "label": "Core Processing User",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "question": "Which data structure follows FIFO?",
+    "options": [
+      {
+        "label": "Stack",
+        "isCorrect": false
+      },
+      {
+        "label": "Queue",
+        "isCorrect": true
+      },
+      {
+        "label": "Tree",
+        "isCorrect": false
+      },
+      {
+        "label": "Graph",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "question": "Which data structure follows LIFO?",
+    "options": [
+      {
+        "label": "Queue",
+        "isCorrect": false
+      },
+      {
+        "label": "Array",
+        "isCorrect": false
+      },
+      {
+        "label": "Stack",
+        "isCorrect": true
+      },
+      {
+        "label": "Heap",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "question": "What does HTML stand for?",
+    "options": [
+      {
+        "label": "HyperText Markup Language",
+        "isCorrect": true
+      },
+      {
+        "label": "HighText Machine Language",
+        "isCorrect": false
+      },
+      {
+        "label": "Hyper Transfer Markup Link",
+        "isCorrect": false
+      },
+      {
+        "label": "Home Tool Markup Language",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "question": "What does CSS stand for?",
+    "options": [
+      {
+        "label": "Computer Style Sheets",
+        "isCorrect": false
+      },
+      {
+        "label": "Cascading Style Sheets",
+        "isCorrect": true
+      },
+      {
+        "label": "Creative Style System",
+        "isCorrect": false
+      },
+      {
+        "label": "Colorful Style Syntax",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "question": "Which HTTP method is commonly used to retrieve data?",
+    "options": [
+      {
+        "label": "POST",
+        "isCorrect": false
+      },
+      {
+        "label": "GET",
+        "isCorrect": true
+      },
+      {
+        "label": "PUT",
+        "isCorrect": false
+      },
+      {
+        "label": "DELETE",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "question": "Which number is prime?",
+    "options": [
+      {
+        "label": "21",
+        "isCorrect": false
+      },
+      {
+        "label": "27",
+        "isCorrect": false
+      },
+      {
+        "label": "29",
+        "isCorrect": true
+      },
+      {
+        "label": "33",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "question": "What is 15% of 200?",
+    "options": [
+      {
+        "label": "20",
+        "isCorrect": false
+      },
+      {
+        "label": "25",
+        "isCorrect": false
+      },
+      {
+        "label": "30",
+        "isCorrect": true
+      },
+      {
+        "label": "35",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "question": "Which organ pumps blood through the human body?",
+    "options": [
+      {
+        "label": "Lungs",
+        "isCorrect": false
+      },
+      {
+        "label": "Brain",
+        "isCorrect": false
+      },
+      {
+        "label": "Heart",
+        "isCorrect": true
+      },
+      {
+        "label": "Kidney",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "question": "How many bones are in an adult human body approximately?",
+    "options": [
+      {
+        "label": "106",
+        "isCorrect": false
+      },
+      {
+        "label": "206",
+        "isCorrect": true
+      },
+      {
+        "label": "306",
+        "isCorrect": false
+      },
+      {
+        "label": "406",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "question": "Which vitamin is produced in the skin through sunlight exposure?",
+    "options": [
+      {
+        "label": "Vitamin A",
+        "isCorrect": false
+      },
+      {
+        "label": "Vitamin B12",
+        "isCorrect": false
+      },
+      {
+        "label": "Vitamin C",
+        "isCorrect": false
+      },
+      {
+        "label": "Vitamin D",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "question": "What is the largest organ of the human body?",
+    "options": [
+      {
+        "label": "Heart",
+        "isCorrect": false
+      },
+      {
+        "label": "Skin",
+        "isCorrect": true
+      },
+      {
+        "label": "Liver",
+        "isCorrect": false
+      },
+      {
+        "label": "Lungs",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "question": "Which blood cells help fight infections?",
+    "options": [
+      {
+        "label": "Red blood cells",
+        "isCorrect": false
+      },
+      {
+        "label": "White blood cells",
+        "isCorrect": true
+      },
+      {
+        "label": "Platelets",
+        "isCorrect": false
+      },
+      {
+        "label": "Plasma",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "question": "What is H2O commonly called?",
+    "options": [
+      {
+        "label": "Hydrogen peroxide",
+        "isCorrect": false
+      },
+      {
+        "label": "Water",
+        "isCorrect": true
+      },
+      {
+        "label": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "label": "Salt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "question": "Which planet is closest to the Sun?",
+    "options": [
+      {
+        "label": "Venus",
+        "isCorrect": false
+      },
+      {
+        "label": "Earth",
+        "isCorrect": false
+      },
+      {
+        "label": "Mercury",
+        "isCorrect": true
+      },
+      {
+        "label": "Mars",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "question": "Which planet is the largest in our solar system?",
+    "options": [
+      {
+        "label": "Saturn",
+        "isCorrect": false
+      },
+      {
+        "label": "Jupiter",
+        "isCorrect": true
+      },
+      {
+        "label": "Neptune",
+        "isCorrect": false
+      },
+      {
+        "label": "Earth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "question": "How many planets are in the Solar System?",
+    "options": [
+      {
+        "label": "7",
+        "isCorrect": false
+      },
+      {
+        "label": "8",
+        "isCorrect": true
+      },
+      {
+        "label": "9",
+        "isCorrect": false
+      },
+      {
+        "label": "10",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "question": "What force keeps planets in orbit around the Sun?",
+    "options": [
+      {
+        "label": "Magnetism",
+        "isCorrect": false
+      },
+      {
+        "label": "Friction",
+        "isCorrect": false
+      },
+      {
+        "label": "Gravity",
+        "isCorrect": true
+      },
+      {
+        "label": "Electricity",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "question": "Who developed the theory of relativity?",
+    "options": [
+      {
+        "label": "Isaac Newton",
+        "isCorrect": false
+      },
+      {
+        "label": "Albert Einstein",
+        "isCorrect": true
+      },
+      {
+        "label": "Galileo Galilei",
+        "isCorrect": false
+      },
+      {
+        "label": "Nikola Tesla",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "question": "What is the speed of light approximately?",
+    "options": [
+      {
+        "label": "300,000 km/s",
+        "isCorrect": true
+      },
+      {
+        "label": "30,000 km/s",
+        "isCorrect": false
+      },
+      {
+        "label": "3,000 km/s",
+        "isCorrect": false
+      },
+      {
+        "label": "3,000,000 km/s",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "question": "Which is the hardest natural substance?",
+    "options": [
+      {
+        "label": "Iron",
+        "isCorrect": false
+      },
+      {
+        "label": "Diamond",
+        "isCorrect": true
+      },
+      {
+        "label": "Quartz",
+        "isCorrect": false
+      },
+      {
+        "label": "Granite",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "question": "What is the boiling point of water at sea level?",
+    "options": [
+      {
+        "label": "50°C",
+        "isCorrect": false
+      },
+      {
+        "label": "75°C",
+        "isCorrect": false
+      },
+      {
+        "label": "100°C",
+        "isCorrect": true
+      },
+      {
+        "label": "150°C",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "question": "Which instrument measures temperature?",
+    "options": [
+      {
+        "label": "Barometer",
+        "isCorrect": false
+      },
+      {
+        "label": "Thermometer",
+        "isCorrect": true
+      },
+      {
+        "label": "Hygrometer",
+        "isCorrect": false
+      },
+      {
+        "label": "Altimeter",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": [
+      {
+        "label": "Barometer",
+        "isCorrect": true
+      },
+      {
+        "label": "Thermometer",
+        "isCorrect": false
+      },
+      {
+        "label": "Anemometer",
+        "isCorrect": false
+      },
+      {
+        "label": "Compass",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "question": "What is the SI unit of electric current?",
+    "options": [
+      {
+        "label": "Volt",
+        "isCorrect": false
+      },
+      {
+        "label": "Ohm",
+        "isCorrect": false
+      },
+      {
+        "label": "Ampere",
+        "isCorrect": true
+      },
+      {
+        "label": "Watt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "question": "What is the SI unit of force?",
+    "options": [
+      {
+        "label": "Joule",
+        "isCorrect": false
+      },
+      {
+        "label": "Newton",
+        "isCorrect": true
+      },
+      {
+        "label": "Pascal",
+        "isCorrect": false
+      },
+      {
+        "label": "Watt",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "question": "What is the SI unit of energy?",
+    "options": [
+      {
+        "label": "Newton",
+        "isCorrect": false
+      },
+      {
+        "label": "Joule",
+        "isCorrect": true
+      },
+      {
+        "label": "Ampere",
+        "isCorrect": false
+      },
+      {
+        "label": "Tesla",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "question": "Which metal is liquid at room temperature?",
+    "options": [
+      {
+        "label": "Iron",
+        "isCorrect": false
+      },
+      {
+        "label": "Mercury",
+        "isCorrect": true
+      },
+      {
+        "label": "Copper",
+        "isCorrect": false
+      },
+      {
+        "label": "Aluminium",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "question": "What is the pH of pure water at about 25°C?",
+    "options": [
+      {
+        "label": "3",
+        "isCorrect": false
+      },
+      {
+        "label": "5",
+        "isCorrect": false
+      },
+      {
+        "label": "7",
+        "isCorrect": true
+      },
+      {
+        "label": "9",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": [
+      {
+        "label": "Oxygen",
+        "isCorrect": false
+      },
+      {
+        "label": "Nitrogen",
+        "isCorrect": true
+      },
+      {
+        "label": "Carbon dioxide",
+        "isCorrect": false
+      },
+      {
+        "label": "Argon",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "question": "What is the process by which plants make food?",
+    "options": [
+      {
+        "label": "Respiration",
+        "isCorrect": false
+      },
+      {
+        "label": "Photosynthesis",
+        "isCorrect": true
+      },
+      {
+        "label": "Digestion",
+        "isCorrect": false
+      },
+      {
+        "label": "Fermentation",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "question": "Which part of a plant absorbs water from soil?",
+    "options": [
+      {
+        "label": "Flower",
+        "isCorrect": false
+      },
+      {
+        "label": "Leaf",
+        "isCorrect": false
+      },
+      {
+        "label": "Root",
+        "isCorrect": true
+      },
+      {
+        "label": "Fruit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "question": "What is the main function of red blood cells?",
+    "options": [
+      {
+        "label": "Fight infection",
+        "isCorrect": false
+      },
+      {
+        "label": "Carry oxygen",
+        "isCorrect": true
+      },
+      {
+        "label": "Clot blood",
+        "isCorrect": false
+      },
+      {
+        "label": "Produce hormones",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "question": "Which mammal is capable of true sustained flight?",
+    "options": [
+      {
+        "label": "Flying squirrel",
+        "isCorrect": false
+      },
+      {
+        "label": "Bat",
+        "isCorrect": true
+      },
+      {
+        "label": "Penguin",
+        "isCorrect": false
+      },
+      {
+        "label": "Ostrich",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "question": "Which animal is known as the fastest land animal?",
+    "options": [
+      {
+        "label": "Lion",
+        "isCorrect": false
+      },
+      {
+        "label": "Horse",
+        "isCorrect": false
+      },
+      {
+        "label": "Cheetah",
+        "isCorrect": true
+      },
+      {
+        "label": "Leopard",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "question": "Which is the largest land animal?",
+    "options": [
+      {
+        "label": "Elephant",
+        "isCorrect": true
+      },
+      {
+        "label": "Giraffe",
+        "isCorrect": false
+      },
+      {
+        "label": "Rhinoceros",
+        "isCorrect": false
+      },
+      {
+        "label": "Hippopotamus",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "question": "Which bird is commonly associated with Antarctica?",
+    "options": [
+      {
+        "label": "Eagle",
+        "isCorrect": false
+      },
+      {
+        "label": "Penguin",
+        "isCorrect": true
+      },
+      {
+        "label": "Peacock",
+        "isCorrect": false
+      },
+      {
+        "label": "Sparrow",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "question": "Which country has the largest population in the world?",
+    "options": [
+      {
+        "label": "India",
+        "isCorrect": true
+      },
+      {
+        "label": "United States",
+        "isCorrect": false
+      },
+      {
+        "label": "China",
+        "isCorrect": false
+      },
+      {
+        "label": "Brazil",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "question": "What is the capital of India?",
+    "options": [
+      {
+        "label": "Mumbai",
+        "isCorrect": false
+      },
+      {
+        "label": "New Delhi",
+        "isCorrect": true
+      },
+      {
+        "label": "Kolkata",
+        "isCorrect": false
+      },
+      {
+        "label": "Chennai",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "question": "Which Indian state is famous for its backwaters?",
+    "options": [
+      {
+        "label": "Punjab",
+        "isCorrect": false
+      },
+      {
+        "label": "Kerala",
+        "isCorrect": true
+      },
+      {
+        "label": "Rajasthan",
+        "isCorrect": false
+      },
+      {
+        "label": "Bihar",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "question": "Which city is known as the Pink City of India?",
+    "options": [
+      {
+        "label": "Jaipur",
+        "isCorrect": true
+      },
+      {
+        "label": "Pune",
+        "isCorrect": false
+      },
+      {
+        "label": "Surat",
+        "isCorrect": false
+      },
+      {
+        "label": "Mysuru",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "question": "Which is the largest Indian state by area?",
+    "options": [
+      {
+        "label": "Maharashtra",
+        "isCorrect": false
+      },
+      {
+        "label": "Madhya Pradesh",
+        "isCorrect": false
+      },
+      {
+        "label": "Rajasthan",
+        "isCorrect": true
+      },
+      {
+        "label": "Uttar Pradesh",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "question": "Which is the smallest Indian state by area?",
+    "options": [
+      {
+        "label": "Goa",
+        "isCorrect": true
+      },
+      {
+        "label": "Sikkim",
+        "isCorrect": false
+      },
+      {
+        "label": "Tripura",
+        "isCorrect": false
+      },
+      {
+        "label": "Manipur",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "question": "Who is known as the Father of the Indian Constitution?",
+    "options": [
+      {
+        "label": "Mahatma Gandhi",
+        "isCorrect": false
+      },
+      {
+        "label": "B. R. Ambedkar",
+        "isCorrect": true
+      },
+      {
+        "label": "Jawaharlal Nehru",
+        "isCorrect": false
+      },
+      {
+        "label": "Sardar Patel",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "question": "India became independent in which year?",
+    "options": [
+      {
+        "label": "1945",
+        "isCorrect": false
+      },
+      {
+        "label": "1947",
+        "isCorrect": true
+      },
+      {
+        "label": "1950",
+        "isCorrect": false
+      },
+      {
+        "label": "1952",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "question": "The Constitution of India came into effect in which year?",
+    "options": [
+      {
+        "label": "1947",
+        "isCorrect": false
+      },
+      {
+        "label": "1948",
+        "isCorrect": false
+      },
+      {
+        "label": "1950",
+        "isCorrect": true
+      },
+      {
+        "label": "1952",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "question": "Which Indian festival is known as the Festival of Lights?",
+    "options": [
+      {
+        "label": "Holi",
+        "isCorrect": false
+      },
+      {
+        "label": "Diwali",
+        "isCorrect": true
+      },
+      {
+        "label": "Pongal",
+        "isCorrect": false
+      },
+      {
+        "label": "Onam",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "question": "Which language has the largest number of native speakers in India?",
+    "options": [
+      {
+        "label": "Hindi",
+        "isCorrect": true
+      },
+      {
+        "label": "Tamil",
+        "isCorrect": false
+      },
+      {
+        "label": "Bengali",
+        "isCorrect": false
+      },
+      {
+        "label": "Telugu",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "question": "Which is the currency of Japan?",
+    "options": [
+      {
+        "label": "Won",
+        "isCorrect": false
+      },
+      {
+        "label": "Yuan",
+        "isCorrect": false
+      },
+      {
+        "label": "Yen",
+        "isCorrect": true
+      },
+      {
+        "label": "Ringgit",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "question": "What is the capital of Japan?",
+    "options": [
+      {
+        "label": "Kyoto",
+        "isCorrect": false
+      },
+      {
+        "label": "Tokyo",
+        "isCorrect": true
+      },
+      {
+        "label": "Osaka",
+        "isCorrect": false
+      },
+      {
+        "label": "Hiroshima",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "question": "Which country is shaped roughly like a boot?",
+    "options": [
+      {
+        "label": "Spain",
+        "isCorrect": false
+      },
+      {
+        "label": "Italy",
+        "isCorrect": true
+      },
+      {
+        "label": "Greece",
+        "isCorrect": false
+      },
+      {
+        "label": "Portugal",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "question": "What is the capital of Australia?",
+    "options": [
+      {
+        "label": "Sydney",
+        "isCorrect": false
+      },
+      {
+        "label": "Melbourne",
+        "isCorrect": false
+      },
+      {
+        "label": "Canberra",
+        "isCorrect": true
+      },
+      {
+        "label": "Perth",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "question": "Which is the largest country by area?",
+    "options": [
+      {
+        "label": "Canada",
+        "isCorrect": false
+      },
+      {
+        "label": "China",
+        "isCorrect": false
+      },
+      {
+        "label": "Russia",
+        "isCorrect": true
+      },
+      {
+        "label": "United States",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "question": "Which desert is the largest hot desert?",
+    "options": [
+      {
+        "label": "Gobi",
+        "isCorrect": false
+      },
+      {
+        "label": "Sahara",
+        "isCorrect": true
+      },
+      {
+        "label": "Kalahari",
+        "isCorrect": false
+      },
+      {
+        "label": "Atacama",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "question": "Which mountain is the highest above sea level?",
+    "options": [
+      {
+        "label": "K2",
+        "isCorrect": false
+      },
+      {
+        "label": "Mount Everest",
+        "isCorrect": true
+      },
+      {
+        "label": "Kangchenjunga",
+        "isCorrect": false
+      },
+      {
+        "label": "Lhotse",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "question": "Which ocean lies between Africa and Australia?",
+    "options": [
+      {
+        "label": "Atlantic",
+        "isCorrect": false
+      },
+      {
+        "label": "Pacific",
+        "isCorrect": false
+      },
+      {
+        "label": "Indian",
+        "isCorrect": true
+      },
+      {
+        "label": "Arctic",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "question": "What is the currency of the United Kingdom?",
+    "options": [
+      {
+        "label": "Euro",
+        "isCorrect": false
+      },
+      {
+        "label": "Dollar",
+        "isCorrect": false
+      },
+      {
+        "label": "Pound sterling",
+        "isCorrect": true
+      },
+      {
+        "label": "Franc",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "question": "Which organization has its headquarters in New York and works on international cooperation?",
+    "options": [
+      {
+        "label": "WHO",
+        "isCorrect": false
+      },
+      {
+        "label": "United Nations",
+        "isCorrect": true
+      },
+      {
+        "label": "NATO",
+        "isCorrect": false
+      },
+      {
+        "label": "WTO",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "question": "What does WWW stand for?",
+    "options": [
+      {
+        "label": "World Wide Web",
+        "isCorrect": true
+      },
+      {
+        "label": "World Web Window",
+        "isCorrect": false
+      },
+      {
+        "label": "Wide World Wire",
+        "isCorrect": false
+      },
+      {
+        "label": "Web World Wide",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "question": "What does URL stand for?",
+    "options": [
+      {
+        "label": "Uniform Resource Locator",
+        "isCorrect": true
+      },
+      {
+        "label": "Universal Reference Link",
+        "isCorrect": false
+      },
+      {
+        "label": "User Resource Location",
+        "isCorrect": false
+      },
+      {
+        "label": "Unified Routing Link",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "question": "Which device is used to connect networks and forward packets?",
+    "options": [
+      {
+        "label": "Keyboard",
+        "isCorrect": false
+      },
+      {
+        "label": "Router",
+        "isCorrect": true
+      },
+      {
+        "label": "Monitor",
+        "isCorrect": false
+      },
+      {
+        "label": "Printer",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "question": "Which storage unit is larger?",
+    "options": [
+      {
+        "label": "KB",
+        "isCorrect": false
+      },
+      {
+        "label": "MB",
+        "isCorrect": false
+      },
+      {
+        "label": "GB",
+        "isCorrect": false
+      },
+      {
+        "label": "TB",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "question": "What is binary representation based on?",
+    "options": [
+      {
+        "label": "Base 2",
+        "isCorrect": true
+      },
+      {
+        "label": "Base 8",
+        "isCorrect": false
+      },
+      {
+        "label": "Base 10",
+        "isCorrect": false
+      },
+      {
+        "label": "Base 16",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "question": "Which symbol starts a comment in Dart for a single line?",
+    "options": [
+      {
+        "label": "#",
+        "isCorrect": false
+      },
+      {
+        "label": "//",
+        "isCorrect": true
+      },
+      {
+        "label": "<!--",
+        "isCorrect": false
+      },
+      {
+        "label": "**",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "question": "Which keyword declares a constant in Dart?",
+    "options": [
+      {
+        "label": "let",
+        "isCorrect": false
+      },
+      {
+        "label": "const",
+        "isCorrect": true
+      },
+      {
+        "label": "static",
+        "isCorrect": false
+      },
+      {
+        "label": "fixed",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "question": "Which Flutter widget is commonly used for a vertically scrolling list?",
+    "options": [
+      {
+        "label": "Row",
+        "isCorrect": false
+      },
+      {
+        "label": "Column",
+        "isCorrect": false
+      },
+      {
+        "label": "ListView",
+        "isCorrect": true
+      },
+      {
+        "label": "Stack",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "question": "Which Flutter widget provides a basic Material Design visual structure?",
+    "options": [
+      {
+        "label": "Scaffold",
+        "isCorrect": true
+      },
+      {
+        "label": "Container",
+        "isCorrect": false
+      },
+      {
+        "label": "Text",
+        "isCorrect": false
+      },
+      {
+        "label": "Padding",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "question": "Which widget is commonly used for mutable state?",
+    "options": [
+      {
+        "label": "StatelessWidget",
+        "isCorrect": false
+      },
+      {
+        "label": "StatefulWidget",
+        "isCorrect": true
+      },
+      {
+        "label": "InheritedWidget",
+        "isCorrect": false
+      },
+      {
+        "label": "Builder",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "question": "Which method is called to initialize a State object before building?",
+    "options": [
+      {
+        "label": "dispose",
+        "isCorrect": false
+      },
+      {
+        "label": "initState",
+        "isCorrect": true
+      },
+      {
+        "label": "rebuild",
+        "isCorrect": false
+      },
+      {
+        "label": "startState",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "question": "Which widget arranges children horizontally?",
+    "options": [
+      {
+        "label": "Column",
+        "isCorrect": false
+      },
+      {
+        "label": "Row",
+        "isCorrect": true
+      },
+      {
+        "label": "Stack",
+        "isCorrect": false
+      },
+      {
+        "label": "Wrap",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "question": "Which widget arranges children vertically?",
+    "options": [
+      {
+        "label": "Row",
+        "isCorrect": false
+      },
+      {
+        "label": "Column",
+        "isCorrect": true
+      },
+      {
+        "label": "GridView",
+        "isCorrect": false
+      },
+      {
+        "label": "Positioned",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "question": "Which file defines Flutter project dependencies?",
+    "options": [
+      {
+        "label": "main.dart",
+        "isCorrect": false
+      },
+      {
+        "label": "pubspec.yaml",
+        "isCorrect": true
+      },
+      {
+        "label": "index.html",
+        "isCorrect": false
+      },
+      {
+        "label": "settings.json",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "question": "Which command fetches Dart/Flutter dependencies?",
+    "options": [
+      {
+        "label": "flutter get",
+        "isCorrect": false
+      },
+      {
+        "label": "flutter pub get",
+        "isCorrect": true
+      },
+      {
+        "label": "dart install",
+        "isCorrect": false
+      },
+      {
+        "label": "flutter dependencies",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "question": "Which language is primarily used to write Android apps with Jetpack Compose?",
+    "options": [
+      {
+        "label": "Kotlin",
+        "isCorrect": true
+      },
+      {
+        "label": "Dart",
+        "isCorrect": false
+      },
+      {
+        "label": "Swift",
+        "isCorrect": false
+      },
+      {
+        "label": "Ruby",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "question": "Which language is primarily used for iOS development with SwiftUI?",
+    "options": [
+      {
+        "label": "Kotlin",
+        "isCorrect": false
+      },
+      {
+        "label": "Swift",
+        "isCorrect": true
+      },
+      {
+        "label": "Dart",
+        "isCorrect": false
+      },
+      {
+        "label": "Java",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "question": "What is the result of 2³?",
+    "options": [
+      {
+        "label": "6",
+        "isCorrect": false
+      },
+      {
+        "label": "8",
+        "isCorrect": true
+      },
+      {
+        "label": "9",
+        "isCorrect": false
+      },
+      {
+        "label": "12",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "question": "What is 25 × 4?",
+    "options": [
+      {
+        "label": "50",
+        "isCorrect": false
+      },
+      {
+        "label": "75",
+        "isCorrect": false
+      },
+      {
+        "label": "100",
+        "isCorrect": true
+      },
+      {
+        "label": "125",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "question": "What is 144 ÷ 12?",
+    "options": [
+      {
+        "label": "10",
+        "isCorrect": false
+      },
+      {
+        "label": "11",
+        "isCorrect": false
+      },
+      {
+        "label": "12",
+        "isCorrect": true
+      },
+      {
+        "label": "14",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "question": "What is the next number: 2, 4, 8, 16, ?",
+    "options": [
+      {
+        "label": "20",
+        "isCorrect": false
+      },
+      {
+        "label": "24",
+        "isCorrect": false
+      },
+      {
+        "label": "32",
+        "isCorrect": true
+      },
+      {
+        "label": "36",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "question": "What is 7²?",
+    "options": [
+      {
+        "label": "14",
+        "isCorrect": false
+      },
+      {
+        "label": "21",
+        "isCorrect": false
+      },
+      {
+        "label": "49",
+        "isCorrect": true
+      },
+      {
+        "label": "56",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "question": "A triangle has how many sides?",
+    "options": [
+      {
+        "label": "2",
+        "isCorrect": false
+      },
+      {
+        "label": "3",
+        "isCorrect": true
+      },
+      {
+        "label": "4",
+        "isCorrect": false
+      },
+      {
+        "label": "5",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "question": "How many degrees are in a right angle?",
+    "options": [
+      {
+        "label": "45",
+        "isCorrect": false
+      },
+      {
+        "label": "90",
+        "isCorrect": true
+      },
+      {
+        "label": "180",
+        "isCorrect": false
+      },
+      {
+        "label": "360",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "question": "How many degrees are in a full circle?",
+    "options": [
+      {
+        "label": "90",
+        "isCorrect": false
+      },
+      {
+        "label": "180",
+        "isCorrect": false
+      },
+      {
+        "label": "270",
+        "isCorrect": false
+      },
+      {
+        "label": "360",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "question": "What is the perimeter of a square with side 5 cm?",
+    "options": [
+      {
+        "label": "10 cm",
+        "isCorrect": false
+      },
+      {
+        "label": "15 cm",
+        "isCorrect": false
+      },
+      {
+        "label": "20 cm",
+        "isCorrect": true
+      },
+      {
+        "label": "25 cm",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "question": "What is the area of a rectangle 8 cm by 3 cm?",
+    "options": [
+      {
+        "label": "11 cm²",
+        "isCorrect": false
+      },
+      {
+        "label": "22 cm²",
+        "isCorrect": false
+      },
+      {
+        "label": "24 cm²",
+        "isCorrect": true
+      },
+      {
+        "label": "28 cm²",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "question": "If a book costs ₹200 and is discounted by 10%, what is the sale price?",
+    "options": [
+      {
+        "label": "₹170",
+        "isCorrect": false
+      },
+      {
+        "label": "₹180",
+        "isCorrect": true
+      },
+      {
+        "label": "₹190",
+        "isCorrect": false
+      },
+      {
+        "label": "₹195",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "question": "What is the average of 10, 20, and 30?",
+    "options": [
+      {
+        "label": "15",
+        "isCorrect": false
+      },
+      {
+        "label": "20",
+        "isCorrect": true
+      },
+      {
+        "label": "25",
+        "isCorrect": false
+      },
+      {
+        "label": "30",
+        "isCorrect": false
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "question": "Which word is a synonym for 'rapid'?",
+    "options": [
+      {
+        "label": "Slow",
+        "isCorrect": false
+      },
+      {
+        "label": "Quick",
+        "isCorrect": true
+      },
+      {
+        "label": "Weak",
+        "isCorrect": false
+      },
+      {
+        "label": "Quiet",
+        "isCorrect": false
+      }
+    ]
+  }
+]

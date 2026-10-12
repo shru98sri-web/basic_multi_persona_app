@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Aarav",
+    "role": "Analyst",
+    "style": "analytical",
+    "avatar": "analytics"
+  },
+  {
+    "name": "Maya",
+    "role": "People Advocate",
+    "style": "empathetic",
+    "avatar": "favorite"
+  },
+  {
+    "name": "Rohan",
+    "role": "Critical Thinker",
+    "style": "challenging",
+    "avatar": "psychology"
+  },
+  {
+    "name": "Diya",
+    "role": "Practical Planner",
+    "style": "practical",
+    "avatar": "lightbulb"
+  }
+]

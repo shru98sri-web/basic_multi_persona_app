@@ -1,0 +1,62 @@
+[
+  {
+    "id": "technology-ai",
+    "title": "Is Artificial Intelligence a Benefit or a Risk?",
+    "category": "Technology",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "social-media",
+    "title": "Does Social Media Do More Harm Than Good?",
+    "category": "Society",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "remote-work",
+    "title": "Remote Work vs Office Work",
+    "category": "Career",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "climate",
+    "title": "Economic Growth vs Environmental Protection",
+    "category": "Environment",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "education",
+    "title": "Should College Education Be Skill-Based?",
+    "category": "Education",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "cashless",
+    "title": "Is a Cashless Economy Practical for Everyone?",
+    "category": "Economy",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "automation",
+    "title": "Will Automation Create More Jobs Than It Removes?",
+    "category": "Technology",
+    "difficulty": "Hard"
+  },
+  {
+    "id": "leadership",
+    "title": "Leadership: Confidence or Collaboration?",
+    "category": "Career",
+    "difficulty": "Medium"
+  },
+  {
+    "id": "online-learning",
+    "title": "Online Learning vs Classroom Learning",
+    "category": "Education",
+    "difficulty": "Easy"
+  },
+  {
+    "id": "four-day-week",
+    "title": "Should Companies Adopt a Four-Day Work Week?",
+    "category": "Workplace",
+    "difficulty": "Medium"
+  }
+]
